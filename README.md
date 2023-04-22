@@ -1,8 +1,7 @@
 <!-- 动态打字效果 -->
-
 <h1 align="center">
-  <a href="https://orangejun.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=欢迎光临！我是事局外人.;console.log(%22Hello%EF%BC%8Cworld%22)">
+  <a href="https://www.i2stayblog.xyz">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=欢迎光临！我是局外人.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
 
@@ -32,8 +31,7 @@
 
 🧠 计划学习:
 
-&emsp;
-
+&emsp;&emsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
@@ -41,5 +39,3 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 
 🧰 常用的工具:
-
-&emsp;
