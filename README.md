@@ -10,7 +10,7 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
 
-<h1 align="center"><a href="www.orangejun.cn">我的博客| www.i2stayblog.xyz</a></h1>
+<h1 align="center"><a href="www.i2stayblog.xyz">我的博客| www.i2stayblog.xyz</a></h1>
 
 
 🙋 Hello 欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
